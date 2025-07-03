@@ -1,4 +1,4 @@
-# drKim | Red Team Member • Offensive Security Enthusiast
+# drkim | Red Team Member • Offensive Security Enthusiast
 
 Hi there — I’m **drkim** (just a nickname, not an actual PhD 😄), a **Red Team member** involved in offensive security operations and adversary emulation.  
 I specialize in discovering vulnerabilities through realistic attack scenarios, including **initial access**, **runtime application manipulation** ,**web/mobile app exploitation**, and **custom tooling**.
