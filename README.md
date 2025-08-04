@@ -83,7 +83,7 @@ Currently working on several indie projects — stay tuned for open source relea
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > *“Security is about mindset, not just mitigation.”*  
 > – drkim (just a guy who likes breaking things securely)
