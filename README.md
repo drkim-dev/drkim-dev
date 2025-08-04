@@ -25,6 +25,7 @@ In my free time, I build web platforms and browser-based games as creative side 
 
 Recognized by **KISA** for responsible vulnerability disclosure:
 
+- 🛡️ **KVE-2025-0142**
 - 🛡️ **KVE-2025-0250** – Exploited a critical flaw in session architecture, enabling privilege escalation 
 - 🛡️ **KVE-2025-0249** – Identified insecure interface behavior leading to unauthorized data exposure
 - 🛡️ **KVE-2025-0248** – Discovered logic-level vulnerability impacting integrity of transactional systems
