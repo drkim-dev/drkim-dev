@@ -11,25 +11,27 @@ In my free time, I build web platforms and browser-based games as creative side 
 
 ## Offensive Security Focus
 
-- 🎯 **Red Team Activities** – APT-style simulation, stealth access, attack chains    
-- 💣 **Penetration Testing** – Vulnerability discovery through scenario-driven engagement  
-- 🌐 **Web Hacking** – NoSQL INJ, IDOR, SSRF, logic bugs, XSS  
-- 📱 **Mobile App Hacking** – Android reverse engineering, Frida-based runtime analysis
-- 📡 **Wireless Network Security** – Assessing Wi-Fi environments and protocol weaknesse
-- 🧬 **Active Directory Attacks** – Kerberoasting, ACL abuse, GPO hijacking, DCSync 
-- ⚙️ **Tooling** – Scripting automation, payloads, and light C2 interfaces
+- **Red Team Activities** – APT-style simulation, stealth access, attack chains    
+- **Penetration Testing** – Vulnerability discovery through scenario-driven engagement  
+- **Web Hacking** – NoSQL INJ, IDOR, SSRF, logic bugs, XSS  
+- **Mobile App Hacking** – Android reverse engineering, Frida-based runtime analysis
+- **Wireless Network Security** – Assessing Wi-Fi environments and protocol weaknesse
+- **Active Directory Attacks** – Kerberoasting, ACL abuse, GPO hijacking, DCSync 
+- **Tooling** – Scripting automation, payloads, and light C2 interfaces
 
 ---
 
 ## Verified CVEs
 
-Recognized by **KISA** for responsible vulnerability disclosure:
 
-- 🛡️ **KVE-2025-0142**
-- 🛡️ **KVE-2025-0250** – Exploited a critical flaw in session architecture, enabling privilege escalation 
-- 🛡️ **KVE-2025-0249** – Identified insecure interface behavior leading to unauthorized data exposure
-- 🛡️ **KVE-2025-0248** – Discovered logic-level vulnerability impacting integrity of transactional systems
-
+- **CVE-2026-0**
+- **CVE-2026-0**
+- **CVE-2026-0**
+- 
+- **KVE-2025-0142**
+- **KVE-2025-0250** – Exploited a critical flaw in session architecture, enabling privilege escalation 
+- **KVE-2025-0249** – Identified insecure interface behavior leading to unauthorized data exposure
+- **KVE-2025-0248** – Discovered logic-level vulnerability impacting integrity of transactional systems
 > Verified by Korea Internet & Security Agency (KISA)
 
 ---
