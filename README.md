@@ -1,89 +1,100 @@
-# drkim | Red Team Member • Offensive Security Enthusiast
+# drkim | Red Team Member • Offensive Security Researcher
 
-Hi there — I’m **drkim** (just a nickname, not an actual PhD 😄), a **Red Team member** involved in offensive security operations and adversary emulation.  
-I specialize in discovering vulnerabilities through realistic attack scenarios, including **initial access**, **runtime application manipulation** ,**web/mobile app exploitation**, and **custom tooling**.
+Hi — I’m **drkim** (nickname, not an actual PhD 😄),  
+a **Red Team member** working in offensive security.
 
-In my free time, I build web platforms and browser-based games as creative side projects using JavaScript and Node.js.
+In my day-to-day work, I focus on understanding attacker behavior and evaluating real-world attack paths, from initial access to post-exploitation.
 
->  *“To defend, you must first know how to attack — and automate both.”*
+Outside of my primary role, I have a strong interest in **open source vulnerability research**, where I explore how design and trust assumptions can fail in practical systems.
 
----
+I occasionally report security issues through responsible disclosure and collaborate with maintainers throughout the fix and advisory process.
 
-## Offensive Security Focus
-
-- **Red Team Activities** – APT-style simulation, stealth access, attack chains    
-- **Penetration Testing** – Vulnerability discovery through scenario-driven engagement  
-- **Web Hacking** – NoSQL INJ, IDOR, SSRF, logic bugs, XSS  
-- **Mobile App Hacking** – Android reverse engineering, Frida-based runtime analysis
-- **Wireless Network Security** – Assessing Wi-Fi environments and protocol weaknesse
-- **Active Directory Attacks** – Kerberoasting, ACL abuse, GPO hijacking, DCSync 
-- **Tooling** – Scripting automation, payloads, and light C2 interfaces
+> *“Understanding how systems fail is the first step to securing them.”*
 
 ---
 
-## Verified CVEs
+## 🔥 Offensive Security Focus
 
+- **Red Team Operations**  
+  Adversary emulation, stealth intrusion, lateral movement, and realistic attack chain design based on real threat models
 
-- **CVE-2026-0**
-- **CVE-2026-0**
-- **CVE-2026-0**
-- 
-- **KVE-2025-0142**
-- **KVE-2025-0250** – Exploited a critical flaw in session architecture, enabling privilege escalation 
-- **KVE-2025-0249** – Identified insecure interface behavior leading to unauthorized data exposure
-- **KVE-2025-0248** – Discovered logic-level vulnerability impacting integrity of transactional systems
+- **Vulnerability Research**  
+  Manual source code review, attack surface discovery, logic flaw identification, and trust boundary abuse in open source software
 
+- **Web Application Security**  
+  Authentication and authorization bypasses, IDOR, SSRF, XSS, NoSQL injection, and business logic flaws
 
----
+- **Mobile Application Security (Android)**  
+  APK reverse engineering, Frida-based runtime analysis, API abuse, and client-side trust bypass
 
-## Personal Projects
+- **Active Directory Attacks**  
+  Kerberos abuse (Kerberoasting), ACL/GPO misconfigurations, privilege escalation paths, and domain persistence techniques
 
-Currently working on several indie projects — stay tuned for open source releases!
+- **Wireless & Network Attacks**  
+  Wi-Fi security assessments, protocol misuse, and insecure network trust assumptions
 
-- 🎮 `coffeerun` – Real-time browser-based coffee betting game *(JS + CSS)*
-
----
-
-## Tech Stack
-
-### Offensive & Security
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-black?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows AD](https://img.shields.io/badge/Windows%20AD-0078D6?style=flat&logo=windows&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat)
-
-### Development & DevSecOps
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Offensive Tooling & PoC Development**  
+  Custom exploit PoCs, automation scripts, and reproducible vulnerability verification environments
 
 ---
 
-## GitHub Stats
+## 🏆 Verified CVEs & Security Advisories
+
+I have reported multiple vulnerabilities that were accepted, fixed, and assigned official identifiers through coordinated disclosure.
+
+### Global CVEs (MITRE / NVD)
+- **CVE-2026-XXXX** – Assigned and pending public advisory publication  
+- **CVE-2026-XXXX** – Assigned and pending public advisory publication  
+- **CVE-2026-XXXX** – Assigned and pending public advisory publication  
+
+### Korean Vulnerability Entries (Korea Internet & Security Agency)
+- **KVE-2025-0142** – Private disclosure  
+- **KVE-2025-0250** – Critical session architecture flaw enabling privilege escalation  
+- **KVE-2025-0249** – Insecure interface behavior leading to unauthorized data exposure  
+- **KVE-2025-0248** – Logic-level vulnerability impacting transactional integrity  
+
+> My focus is on vulnerabilities with **real security impact**, validated through practical exploitation scenarios rather than theoretical weaknesses.
 
 ---
 
-## Goals
+## 🧪 Research Interests
 
-- Release real-world red teaming tools  
-- Share security research through open source projects  
-
----
-
-## Contact
-
- [Email](mailto:drkim1239@gmail.com)  
- [Blog](https://drkim-dev.tistory.com/)
+- Application-layer attack surface expansion  
+- Security boundary failures caused by design assumptions  
+- Runtime abuse and trust model violations  
+- Vulnerability discovery in widely used open source software  
 
 ---
 
-## Philosophy
+## 🚀 Personal Projects
 
-> *“Security is about mindset, not just mitigation.”*  
-> – drkim 
+Side projects where I experiment with ideas, automation, and game logic.
 
+- **`coffeerun`** — Real-time browser-based coffee betting game *(JavaScript + CSS)*  
+  *(Open source released)*
+
+---
+
+## 🛠 Tech Stack & Capabilities
+
+- **Security Research** – source code review, access control analysis, exploit validation  
+- **Web Security** – HTTP logic analysis, request manipulation, PoC development  
+- **Mobile Security** – Android reverse engineering, Frida-based runtime analysis  
+- **Offensive Tooling** – Python scripting, Burp Suite, custom testing tools  
+- **Environments** – Linux, Docker, self-hosted application setups  
+- **Development** – JavaScript / Node.js–based backend and plugin architectures  
+
+---
+
+## 🎯 Goals
+
+- Continue discovering and publishing impactful security findings  
+- Release practical red team and security research tools  
+- Contribute to a safer open source ecosystem through responsible disclosure  
+
+---
+
+## 📬 Contact
+
+- Email: [drkim1239@gmail.com](mailto:drkim1239@gmail.com)  
+- Blog: [닥터킴의 연구소](https://drkim-dev.tistory.com/)
