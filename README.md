@@ -42,18 +42,19 @@ I occasionally report security issues through responsible disclosure and collabo
 
 I have reported multiple vulnerabilities that were accepted, fixed, and assigned official identifiers through coordinated disclosure.
 
+
 ### Global CVEs (MITRE / NVD)
-- **CVE-2026-XXXX** – Assigned and pending public advisory publication  
-- **CVE-2026-XXXX** – Assigned and pending public advisory publication  
-- **CVE-2026-XXXX** – Assigned and pending public advisory publication  
+- **CVE-2026-XXXX** – Assigned and pending public advisory publication
+- **CVE-2026-XXXX** – Assigned and pending public advisory publication
+- **CVE-2026-XXXX** – Assigned and pending public advisory publication
 
 ### Korean Vulnerability Entries (Korea Internet & Security Agency)
-- **KVE-2025-0142** – Private disclosure  
-- **KVE-2025-0250** – Critical session architecture flaw enabling privilege escalation  
-- **KVE-2025-0249** – Insecure interface behavior leading to unauthorized data exposure  
-- **KVE-2025-0248** – Logic-level vulnerability impacting transactional integrity  
+- **KVE-2025-0142** - private
+- **KVE-2025-0250** – Exploited a critical flaw in session architecture, enabling privilege escalation 
+- **KVE-2025-0249** – Identified insecure interface behavior leading to unauthorized data exposure
+- **KVE-2025-0248** – Discovered logic-level vulnerability impacting integrity of transactional systems
 
-> My focus is on vulnerabilities with **real security impact**, validated through practical exploitation scenarios rather than theoretical weaknesses.
+> My focus is on vulnerabilities with **real security impact**, validated through exploitation scenarios rather than theoretical weaknesses.
 
 ---
 
@@ -61,7 +62,7 @@ I have reported multiple vulnerabilities that were accepted, fixed, and assigned
 
 - Application-layer attack surface expansion  
 - Security boundary failures caused by design assumptions  
-- Runtime abuse and trust model violations  
+- Runtime abuse & trust model violations  
 - Vulnerability discovery in widely used open source software  
 
 ---
@@ -70,7 +71,7 @@ I have reported multiple vulnerabilities that were accepted, fixed, and assigned
 
 Side projects where I experiment with ideas, automation, and game logic.
 
-- **`coffeerun`** — Real-time browser-based coffee betting game *(JavaScript + CSS)*  
+- 🎮 **`coffeerun`** — Real-time browser-based coffee betting game *(JavaScript + CSS)*  
   *(Open source released)*
 
 ---
@@ -84,12 +85,13 @@ Side projects where I experiment with ideas, automation, and game logic.
 - **Environments** – Linux, Docker, self-hosted application setups  
 - **Development** – JavaScript / Node.js–based backend and plugin architectures  
 
+
 ---
 
 ## 🎯 Goals
 
-- Continue discovering and publishing impactful security findings  
-- Release practical red team and security research tools  
+- Continue discovering and publishing impactful CVEs  
+- Release practical red team & security research tools  
 - Contribute to a safer open source ecosystem through responsible disclosure  
 
 ---
@@ -98,3 +100,5 @@ Side projects where I experiment with ideas, automation, and game logic.
 
 - Email: [drkim1239@gmail.com](mailto:drkim1239@gmail.com)  
 - Blog: [닥터킴의 연구소](https://drkim-dev.tistory.com/)
+
+---
