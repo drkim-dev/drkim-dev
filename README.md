@@ -32,7 +32,7 @@ In my free time, I build web platforms and browser-based games as creative side 
 - **KVE-2025-0250** – Exploited a critical flaw in session architecture, enabling privilege escalation 
 - **KVE-2025-0249** – Identified insecure interface behavior leading to unauthorized data exposure
 - **KVE-2025-0248** – Discovered logic-level vulnerability impacting integrity of transactional systems
-> Verified by Korea Internet & Security Agency (KISA)
+
 
 ---
 
@@ -66,9 +66,6 @@ Currently working on several indie projects — stay tuned for open source relea
 
 ## GitHub Stats
 
-![DrKim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKim&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrKim&layout=compact&theme=tokyonight)
-
 ---
 
 ## Goals
@@ -88,5 +85,5 @@ Currently working on several indie projects — stay tuned for open source relea
 ## Philosophy
 
 > *“Security is about mindset, not just mitigation.”*  
-> – drkim (just a guy who likes breaking things securely)
+> – drkim 
 
