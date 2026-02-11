@@ -16,7 +16,7 @@
 
 | Identifier | Description |
 | :--- | :--- |
-| **CVE-2026-XXXX** | Critical Vulnerability (Pending) |
+| **CVE-2026-25924** | Administrative RCE via Security Control Bypass |
 | **CVE-2026-XXXX** | Critical Vulnerability (Pending) |
 | **CVE-2026-XXXX** | Critical Vulnerability (Pending) |
 | **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) |
