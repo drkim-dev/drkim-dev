@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=000000&text=drkim&reversal=false&fontColor=FF4C4C&fontSize=80&animation=twinkling&fontAlignY=45&desc=Red%20Team%20Member%20|%20Offensive%20Security%20Researcher&descAlignY=82&descAlign=50&fontAlign=50)
 <br>
+**Red Team Member | Offensive Security Researcher**
+<br/>
+<br>
 <a href="mailto:drkim1239@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 20px;"/>
 </a>
@@ -10,7 +13,7 @@
 </a>
 
 
-<br>
+
 <div align=center><h2> 🏆CERTIFIED ACHIEVEMENTS </h2></div>
 
 
