@@ -14,15 +14,15 @@
 <div align=center><h2> 🏆CERTIFIED ACHIEVEMENTS </h2></div>
 
 
-| Identifier | Description |
-| :--- | :--- |
-| **CVE-2026-25924** | Administrative RCE via Security Control Bypass |
-| **CVE-2026-XXXX** | Critical Vulnerability (Pending) |
-| **CVE-2026-XXXX** | Critical Vulnerability (Pending) |
-| **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) |
-| **KVE-2025-0249** | Unauthorized Data Exposure Flaw |
-| **KVE-2025-0248** | Transactional Integrity Logic Flaw |
-| **KVE-2025-0142** | Confidential Vulnerability Research |
+| Identifier | Description | Verification | POC |
+| :--- | :--- | :--- | :--- |
+| **CVE-2026-25924** | Administrative RCE via Security Control Bypass | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)| - |
+| **CVE-2026-XXXX** | Critical Vulnerability (Pending) | - | - |
+| **CVE-2026-XXXX** | Critical Vulnerability (Pending) | - | - |
+| **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | - | - |
+| **KVE-2025-0249** | Unauthorized Data Exposure Flaw | - | - |
+| **KVE-2025-0248** | Transactional Integrity Logic Flaw | - | - |
+| **KVE-2025-0142** | Confidential Vulnerability Research | - | - |
 
 
 <br>
