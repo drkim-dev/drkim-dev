@@ -21,7 +21,7 @@
 | :--- | :--- | :--- | :--- |
 | **CVE-2026-25924** | Administrative RCE via Security Control Bypass | [NIST](https://nvd.nist.gov/vuln/detail/CVE-2026-25924) | [POC](https://github.com/drkim-dev/CVE-2026-25924) |
 | **CVE-2026-25964** | Authenticated LFD via Path Traversal | [NIST](https://nvd.nist.gov/vuln/detail/CVE-2026-25964) | [POC](https://github.com/drkim-dev/CVE-2026-25964) |
-| **CVE-2026-25991** | Blind SSRF via Redirect Bypass | - | - |
+| **CVE-2026-25991** | Blind SSRF via Redirect Bypass | [NIST](https://nvd.nist.gov/vuln/detail/CVE-2026-25991) | - |
 | **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | - | - |
 | **KVE-2025-0249** | Unauthorized Data Exposure Flaw | - | - |
 | **KVE-2025-0248** | Transactional Integrity Logic Flaw | - | - |
