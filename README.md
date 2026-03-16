@@ -43,14 +43,11 @@
   Conducting adversary emulation and offensive security operations to evaluate real-world attack paths and strengthen cyber defense.
 
 - **Independent CVE Researcher**  
-  Discovering and responsibly disclosing vulnerabilities in open-source software through independent research.
+  Discovering and responsibly disclosing vulnerabilities in open-source software through independent research and deep logic analysis.
 
 - **Co-Founder & Security Researcher at [@RedPoc](https://github.com/redpoc)**  
-  Founder and active researcher of the independent vulnerability research group (RedPoc).
-  We collaboratively analyze widely used open-source software to discover HIGH-level vulnerabilities and share research techniques and findings within the team.
-
-- **Open Source Security Contributor**  
-  Focused on identifying impactful security flaws and improving the security posture of the open-source ecosystem.
+  A vulnerability research group focused on collaborative zero-day hunting and technical growth.  
+  Our team analyzes widely used open-source software to discover CVE-level vulnerabilities and share exploitation techniques and security insights within the group.
 
 <br>
 
