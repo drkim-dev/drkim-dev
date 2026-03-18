@@ -19,17 +19,17 @@
 <div align=center><h2> 🏆CERTIFIED ACHIEVEMENTS </h2></div>
 
 
-| Identifier | Description | Verification | POC |
-| :--- | :--- | :--- | :--- |
-| **[CVE-2026-25924](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)** | Administrative RCE via Security Control Bypass | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-25924)** |
-| **[CVE-2026-25964](https://nvd.nist.gov/vuln/detail/CVE-2026-25964)** | Authenticated LFD via Path Traversal | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-25964)** |
-| **[CVE-2026-25991](https://nvd.nist.gov/vuln/detail/CVE-2026-25991)** | Blind SSRF via Redirect Bypass | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-25991)** |
-| **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Critical Stored XSS & Privilege Escalation in Appsmith | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
-| **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | not published.. | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
-| **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | KNVD | - |
-| **KVE-2025-0249** | Unauthorized Data Exposure Flaw | KNVD | - |
-| **KVE-2025-0248** | Transactional Integrity Logic Flaw | KNVD | - |
-| **KVE-2025-0142** | Confidential Vulnerability Research | KNVD | - |
+| Identifier | Description | POC |
+| :--- | :--- | :--- |
+| **[CVE-2026-25924](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)** | Administrative RCE via Security Control Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25924)** |
+| **[CVE-2026-25964](https://nvd.nist.gov/vuln/detail/CVE-2026-25964)** | Authenticated LFD via Path Traversal | **[POC](https://github.com/drkim-dev/CVE-2026-25964)** |
+| **[CVE-2026-25991](https://nvd.nist.gov/vuln/detail/CVE-2026-25991)** | Blind SSRF via Redirect Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25991)** |
+| **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Critical Stored XSS & Privilege Escalation in Appsmith | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
+| **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | not published.. | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
+| **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | - |
+| **KVE-2025-0249** | Unauthorized Data Exposure Flaw | - |
+| **KVE-2025-0248** | Transactional Integrity Logic Flaw | - |
+| **KVE-2025-0142** | Confidential Vulnerability Research | - |
 
 
 <br>
