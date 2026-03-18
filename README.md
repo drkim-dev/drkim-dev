@@ -21,7 +21,7 @@
 
 | Identifier | Description | POC |
 | :--- | :--- | :--- |
-| **[CVE-2026-25924](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)** | Administrative RCE via Security Control Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25924)** |
+| **[CVE-2026-25924](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)** | RCE via Security Control Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25924)** |
 | **[CVE-2026-25964](https://nvd.nist.gov/vuln/detail/CVE-2026-25964)** | Authenticated LFD via Path Traversal | **[POC](https://github.com/drkim-dev/CVE-2026-25964)** |
 | **[CVE-2026-25991](https://nvd.nist.gov/vuln/detail/CVE-2026-25991)** | Blind SSRF via Redirect Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25991)** |
 | **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Critical Stored XSS & Privilege Escalation in Appsmith | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
