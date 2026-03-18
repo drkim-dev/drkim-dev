@@ -25,7 +25,7 @@
 | **[CVE-2026-25964](https://nvd.nist.gov/vuln/detail/CVE-2026-25964)** | Authenticated LFD via Path Traversal | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-25964)** |
 | **[CVE-2026-25991](https://nvd.nist.gov/vuln/detail/CVE-2026-25991)** | Blind SSRF via Redirect Bypass | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-25991)** |
 | **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Critical Stored XSS & Privilege Escalation in Appsmith | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
-| **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | pending... | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
+| **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | not published.. | [NIST] | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
 | **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | KNVD | - |
 | **KVE-2025-0249** | Unauthorized Data Exposure Flaw | KNVD | - |
 | **KVE-2025-0248** | Transactional Integrity Logic Flaw | KNVD | - |
