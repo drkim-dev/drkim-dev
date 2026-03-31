@@ -21,6 +21,7 @@
 
 | Identifier | Description | POC |
 | :--- | :--- | :--- |
+| **[CVE-2025-62429](https://nvd.nist.gov/vuln/detail/CVE-2025-62429)** | RCE via PHP Code Injection | **[POC](https://github.com/drkim-dev/CVE-2025-62429)** |
 | **[CVE-2026-25924](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)** | RCE via Security Control Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25924)** |
 | **[CVE-2026-25964](https://nvd.nist.gov/vuln/detail/CVE-2026-25964)** | Authenticated LFD via Path Traversal | **[POC](https://github.com/drkim-dev/CVE-2026-25964)** |
 | **[CVE-2026-25991](https://nvd.nist.gov/vuln/detail/CVE-2026-25991)** | Blind SSRF via Redirect Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25991)** |
