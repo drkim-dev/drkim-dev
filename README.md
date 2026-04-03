@@ -25,7 +25,7 @@
 | **[CVE-2026-25924](https://nvd.nist.gov/vuln/detail/CVE-2026-25924)** | RCE via Security Control Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25924)** |
 | **[CVE-2026-25964](https://nvd.nist.gov/vuln/detail/CVE-2026-25964)** | Authenticated LFD via Path Traversal | **[POC](https://github.com/drkim-dev/CVE-2026-25964)** |
 | **[CVE-2026-25991](https://nvd.nist.gov/vuln/detail/CVE-2026-25991)** | Blind SSRF via Redirect Bypass | **[POC](https://github.com/drkim-dev/CVE-2026-25991)** |
-| **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Critical Stored XSS & Privilege Escalation in Appsmith | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
+| **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Privilege Escalation in Appsmith | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
 | **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | Time-based Blind SQL Injection | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
 | **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | - |
 | **KVE-2025-0249** | Unauthorized Data Exposure Flaw | - |
