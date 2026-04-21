@@ -8,12 +8,7 @@
 **Red Team Operator | Offensive Security Researcher**
 <br/>
 <br>
-<a href="mailto:drkim1239@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 20px;"/>
-</a>
-<a href="/">
-<img src="https://img.shields.io/badge/Tistory-EB531F?style=flat&logo=tistory&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 20px;"/>
-</a>
+
 
 
 <div align=center><h2> 🏆CERTIFIED ACHIEVEMENTS </h2></div>
