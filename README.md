@@ -23,6 +23,8 @@
 | **[CVE-2026-30862](https://nvd.nist.gov/vuln/detail/CVE-2026-30862)** | Privilege Escalation in Appsmith | **[POC](https://github.com/drkim-dev/CVE-2026-30862)** |
 | **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | Time-based Blind SQL Injection | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
 | **[CVE-2026-40491](https://nvd.nist.gov/vuln/detail/CVE-2026-40491)** | [redpoc] Arbitrary File Write via Path Traversal | **[POC](https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f)** |
+| **[CVE-2026-39310](https://nvd.nist.gov/vuln/detail/CVE-2026-39310)** | (Not publicly disclosed yet) | - |
+| **[CVE-2026-39311](https://nvd.nist.gov/vuln/detail/CVE-2026-39311)** | (Not publicly disclosed yet) | - |
 | **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | - |
 | **KVE-2025-0249** | Unauthorized Data Exposure Flaw | - |
 | **KVE-2025-0248** | Transactional Integrity Logic Flaw | - |
