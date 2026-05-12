@@ -24,7 +24,7 @@
 | **[CVE-2026-32321](https://nvd.nist.gov/vuln/detail/CVE-2026-32321)** | Time-based Blind SQL Injection | **[POC](https://github.com/drkim-dev/CVE-2026-32321)** |
 | **[CVE-2026-40491](https://nvd.nist.gov/vuln/detail/CVE-2026-40491)** | [redpoc] Arbitrary File Write via Path Traversal | **[POC](https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f)** |
 | **[CVE-2026-39310](https://nvd.nist.gov/vuln/detail/CVE-2026-39310)** | Auth Bypass in Electron Clipper API | - |
-| **[CVE-2026-39311](https://nvd.nist.gov/vuln/detail/CVE-2026-39311)** | Stored XSS to Unauthenticated RCE via Unsanitized SVG Uploads | - |
+| **[CVE-2026-39311](https://nvd.nist.gov/vuln/detail/CVE-2026-39311)** | SVG Upload to RCE | - |
 | **KVE-2025-0250** | Critical Session Architecture Flaw (PrivEsc) | - |
 | **KVE-2025-0249** | Unauthorized Data Exposure Flaw | - |
 | **KVE-2025-0248** | Transactional Integrity Logic Flaw | - |
